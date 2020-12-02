@@ -14,24 +14,32 @@ TBD
 
 TBD
 
+## Telegram Channels
+
+TBD
+
 ## Podcasts
 
-* radio-t
-* devzen
-* Biweekly
-* Podlodka Podcast
-* QAGuild Podcast
-* Как делают игры
-* Мысли и методы
-* Разбор полетов
-* Pragmatism in Practice
-* ThoughtWorks Technology Podcast
-* Bill Gates Podcast
-* Modern CTO
-* SoftSkills Engenering
-* AWS podcast
-* AWS TechChat
-* Fix This
-* Serverless Chats
-* Kubernetes
-* The Podlets
+* [radio-t](https://radio-t.com/)
+* [devzen](https://devzen.ru/)
+* [Biweekly](https://sonar.one/podcasts/biweekly)
+* [Shit I Know Live](https://shitiknow.live/)
+* [DOU podcast](http://podcast.dou.ua/)
+* [Podlodka Podcast](https://podlodka.io/)
+* [QAGuild Podcast](https://soundcloud.com/qaguild)
+* [Как делают игры](https://kdicast.com/)
+* [Мысли и методы](https://rakh.im/mimpod/)
+* [Разбор полетов](https://razborpoletov.com/)
+* [ThoughtWorks Technology Podcast](https://www.thoughtworks.com/podcasts/technology-podcasts)
+* [Pragmatism in Practice](https://www.thoughtworks.com/podcasts/pragmatism-in-practice)
+* [Bill Gates and Rashida Jones Ask Big Questions](https://www.gatesnotes.com/podcast)
+* [Modern CTO](https://moderncto.io/podcast/)
+* [SoftSkills Engenering](https://softskills.audio/)
+* [AWS Podcast](https://aws.amazon.com/podcasts/aws-podcast/)
+* [AWS TechChat](https://aws.amazon.com/podcasts/aws-techchat/)
+* [Fix This](https://aws.amazon.com/government-education/fix-this/)
+* [Serverless Chats](https://www.serverlesschats.com/)
+* [Kubernetes Podcast from Google](https://kubernetespodcast.com/)
+* [The Podlets - A Cloud Native Podcast](https://thepodlets.io/)
+
+ [OPML](podcasts.opml)
