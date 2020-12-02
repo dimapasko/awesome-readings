@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<opml version="1.0">
+	<head>
+		<title>
+			awesome-readings Podcast Subscriptions
+		</title>
+	</head>
+	<body>
+		<outline type="rss" text="Modern CTO with Joel Beasley" title="Modern CTO with Joel Beasley" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:349418264/sounds.rss" htmlUrl="https://moderncto.io/" />
+		<outline type="rss" text="&#x420;&#x430;&#x437;&#x431;&#x43E;&#x440; &#x41F;&#x43E;&#x43B;&#x435;&#x442;&#x43E;&#x432;" title="&#x420;&#x430;&#x437;&#x431;&#x43E;&#x440; &#x41F;&#x43E;&#x43B;&#x435;&#x442;&#x43E;&#x432;" xmlUrl="https://feeds.podcastmirror.com/razborpoletov" htmlUrl="http://razborpoletov.com/" />
+		<outline type="rss" text="Fix This" title="Fix This" xmlUrl="https://d1hemuljm71t2j.cloudfront.net/other/podcast.rss" htmlUrl="http://aws.amazon.com/" />
+		<outline type="rss" text="Podlodka Podcast" title="Podlodka Podcast" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:291337106/sounds.rss" htmlUrl="https://t.me/podlodka" />
+		<outline type="rss" text="Serverless Chats" title="Serverless Chats" xmlUrl="https://feeds.transistor.fm/serverless-chats" htmlUrl="https://www.serverlesschats.com/" />
+		<outline type="rss" text="&#x428;&#x438;&#x442; &#x430;&#x439; &#x43D;&#x43E;&#x443; &#x41B;&#x430;&#x439;&#x432;" title="&#x428;&#x438;&#x442; &#x430;&#x439; &#x43D;&#x43E;&#x443; &#x41B;&#x430;&#x439;&#x432;" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:691362035/sounds.rss" htmlUrl="https://shitiknow.live/" />
+		<outline type="rss" text="ThoughtWorks Technology Podcast" title="ThoughtWorks Technology Podcast" xmlUrl="https://thoughtworks.libsyn.com/rss" htmlUrl="https://www.thoughtworks.com/podcasts" />
+		<outline type="rss" text="CTOcast" title="CTOcast" xmlUrl="http://feeds.feedburner.com/CTOcast" htmlUrl="https://ctocast.com/" />
+		<outline type="rss" text="AWS TechChat" title="AWS TechChat" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:228283955/sounds.rss" htmlUrl="http://soundcloud.com/user-684142981" />
+		<outline type="rss" text="Kubernetes Podcast from Google" title="Kubernetes Podcast from Google" xmlUrl="https://kubernetespodcast.com/feeds/audio.xml" htmlUrl="https://kubernetespodcast.com/" />
+		<outline type="rss" text="Bill Gates and Rashida Jones Ask Big Questions" title="Bill Gates and Rashida Jones Ask Big Questions" xmlUrl="https://feeds.feedburner.com/BillGatesAndRashidaJonesAskBigQuestions" htmlUrl="https://www.gatesnotes.com/podcast" />
+		<outline type="rss" text="DOU Podcast" title="DOU Podcast" xmlUrl="http://podcast.dou.ua/rss" htmlUrl="http://podcast.dou.ua/" />
+		<outline type="rss" text="&#x420;&#x430;&#x434;&#x438;&#x43E;-&#x422;" title="&#x420;&#x430;&#x434;&#x438;&#x43E;-&#x422;" xmlUrl="http://feeds.rucast.net/radio-t" htmlUrl="https://radio-t.com/" />
+		<outline type="rss" text="AWS Podcast" title="AWS Podcast" xmlUrl="https://d3gih7jbfe3jlq.cloudfront.net/aws-podcast.rss" htmlUrl="https://aws.amazon.com/podcasts/aws-podcast/" />
+		<outline type="rss" text="The Podlets - A Cloud Native Podcast" title="The Podlets - A Cloud Native Podcast" xmlUrl="https://www.omnycontent.com/d/playlist/3451a52d-88b7-400a-9a02-aa610027e5d0/6662044f-706b-4890-a3f8-aa9a0004642b/bf774da5-66a7-4b5d-b0e9-aa9a0004aa39/podcast.rss" htmlUrl="https://thepodlets.io/" />
+		<outline type="rss" text="Biweekly" title="Biweekly" xmlUrl="https://sonar.one/biweekly/?category=Podcast&amp;format=RSS" htmlUrl="https://sonar.one/biweekly/" />
+		<outline type="rss" text="&#x41C;&#x44B;&#x441;&#x43B;&#x438; &#x438; &#x43C;&#x435;&#x442;&#x43E;&#x434;&#x44B; (&#x431;&#x44B;&#x432;&#x448;. &#x425;&#x435;&#x43A;&#x441;&#x43B;&#x435;&#x442;)" title="&#x41C;&#x44B;&#x441;&#x43B;&#x438; &#x438; &#x43C;&#x435;&#x442;&#x43E;&#x434;&#x44B; (&#x431;&#x44B;&#x432;&#x448;. &#x425;&#x435;&#x43A;&#x441;&#x43B;&#x435;&#x442;)" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:259154388/sounds.rss" htmlUrl="https://www.patreon.com/freetonik" />
+		<outline type="rss" text="Soft Skills Engineering" title="Soft Skills Engineering" xmlUrl="http://feeds.feedburner.com/SoftSkillsEngineering" htmlUrl="https://softskills.audio/" />
+		<outline type="rss" text="QAGuild podcast" title="QAGuild podcast" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:371334098/sounds.rss" htmlUrl="http://qaguild.online/" />
+		<outline type="rss" text="&#x41A;&#x430;&#x43A; &#x434;&#x435;&#x43B;&#x430;&#x44E;&#x442; &#x438;&#x433;&#x440;&#x44B;" title="&#x41A;&#x430;&#x43A; &#x434;&#x435;&#x43B;&#x430;&#x44E;&#x442; &#x438;&#x433;&#x440;&#x44B;" xmlUrl="http://feeds.feedburner.com/Galyonkin-pod" htmlUrl="https://kdicast.com/news/" />
+		<outline type="rss" text="Pragmatism in Practice" title="Pragmatism in Practice" xmlUrl="https://pragmatisminpractice.libsyn.com/rss" htmlUrl="http://pragmatisminpractice.libsyn.com/website" />
+		<outline type="rss" text="DevZen Podcast" title="DevZen Podcast" xmlUrl="https://devzen.ru/feed/" htmlUrl="https://devzen.ru/" />
+	</body>
+</opml>
