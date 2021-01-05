@@ -12,7 +12,9 @@ TBD
 
 ## Newsletters
 
-TBD
+* [Bytesized](https://www.bytesized.xyz/)
+* [Kaptain](https://faun.dev/)
+* [DevOpsLinks](https://faun.dev/)
 
 ## Telegram Channels
 
