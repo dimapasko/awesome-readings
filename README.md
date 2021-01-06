@@ -15,10 +15,15 @@ TBD
 * [Bytesized](https://www.bytesized.xyz/)
 * [Kaptain](https://faun.dev/)
 * [DevOpsLinks](https://faun.dev/)
+* [Pointer](https://www.pointer.io)
 
 ## Telegram Channels
 
-TBD
+* [Developer Preacher](https://t.me/developerpreacher) 👓
+* [Nauka Ua](https://t.me/naukaua)
+* [XP Injection](https://t.me/xpinjection_channel)
+* [Господин Архитектор](https://t.me/architect_says)
+* [UKR DevOps Digest](https://t.me/UkropsDigest)
 
 ## Podcasts
 
