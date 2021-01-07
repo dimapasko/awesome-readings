@@ -16,6 +16,7 @@ TBD
 * [Kaptain](https://faun.dev/)
 * [DevOpsLinks](https://faun.dev/)
 * [Pointer](https://www.pointer.io)
+* [TLDR](https://www.tldrnewsletter.com/)
 
 ## Telegram Channels
 
