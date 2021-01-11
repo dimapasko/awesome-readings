@@ -4,11 +4,17 @@ Curated list of awesome readings 📖📚🤓
 
 ## Blogs
 
-TBD
+* [Hacker News](https://news.ycombinator.com/)
 
 ## Reddit
 
-TBD
+* [/r/programming/](https://www.reddit.com/r/programming/)
+* [/r/aws/](https://www.reddit.com/r/aws/)
+* [/r/azure/](https://www.reddit.com/r/azure/)
+* [/r/devops/](https://www.reddit.com/r/devops/)
+* [/r/kubernetes/](https://www.reddit.com/r/kubernetes/)
+* [/r/graphql/](https://www.reddit.com/r/graphql/)
+* [/r/vscode/](https://www.reddit.com/r/vscode/)
 
 ## Newsletters
 
@@ -17,6 +23,7 @@ TBD
 * [DevOpsLinks](https://faun.dev/)
 * [Pointer](https://www.pointer.io)
 * [TLDR](https://www.tldrnewsletter.com/)
+* [Daily Coding Problem](https://www.dailycodingproblem.com/)
 
 ## Telegram Channels
 
