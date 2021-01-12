@@ -62,3 +62,7 @@ Curated list of awesome readings 📖📚🤓
 * [The Podlets - A Cloud Native Podcast](https://thepodlets.io/)
 
  [OPML](podcasts.opml)
+
+## Slack groups
+
+* TBD
