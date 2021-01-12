@@ -2,6 +2,10 @@
 
 Curated list of awesome readings 📖📚🤓
 
+## Books
+
+* [Good Reads](https://www.goodreads.com/user/show/61499441-dima)
+
 ## Blogs
 
 * [Hacker News](https://news.ycombinator.com/)
